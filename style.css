@@ -252,7 +252,12 @@ margin-left: 68%;
   margin-top: -15%;
  }
  
-
+.alias{
+  color: #3f3f3f;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
  .arrow span {
   margin-top: -5%;
   display: block;
